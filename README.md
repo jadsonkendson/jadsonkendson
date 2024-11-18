@@ -27,8 +27,20 @@
  <h2 align="left"> VISITS ✅</h2>
 
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jadsonkendson}/count.svg" /></p> 
+
+
+
+
+
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jadsonkendson.jadsonkendson&left_color=peru&right_color=yellow&left_text=VISITORS"  />
+</div>
+
+###
+<!--<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jadsonkendson}/count.svg" /></p> 
 <br></div>
+
 
 
 
