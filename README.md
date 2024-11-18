@@ -27,4 +27,9 @@
 <img src="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/snake.svg" alt="Snake animation" />
 
 
+<h2 align="left"> VISITS ✅</h2>
+
 ###
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jadsonkendson}/count.svg" /></p> 
+<br></div>
+
