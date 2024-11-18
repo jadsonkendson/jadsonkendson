@@ -1,4 +1,4 @@
-<h2 align="left">SOCIAL MEDIA 🌐</h2>
+<h2 align="left" >SOCIAL MEDIA 🌐</h2>
 
 ###
 
@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jadsonkendson/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="43" alt="linkedin logo"  />
   </a>
-</div>
+</div><br>
 
 ###
 
@@ -25,12 +25,6 @@
 <br clear="both">
 
  <h2 align="left"> VISITS ✅</h2>
-
-
-
-
-
-
 
 
 <div align="left">
