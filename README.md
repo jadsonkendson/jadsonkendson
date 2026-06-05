@@ -1,55 +1,52 @@
-<h2 align="left" >SOCIAL MEDIA 🌐</h2>
+# 🌐 Social Media  
 
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/jadsonkendson/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="43" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
   </a>
-</div><br>
+  <a href="https://github.com/jadsonkendson" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+  </a>
+</div>
 
-###
 
-<h2 align="left">STATS 📊</h2>
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,mongodb,mysql,git,github,vscode" />
+## 🛠️ Tech Stack  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,mongodb,mysql,git,github,vscode" alt="skills" />
+</div>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jadsonkendson&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadsonkendson&layout=compact&langs_count=10&theme=gruvbox_light&hide_border=false" height="160" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsonkendson&radius=14&theme=gruvbox&area=true" height="265" alt="Activity Graph" />
+</div>
+
+---
+
+## 👀 Profile Visitors  
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jadsonkendson.jadsonkendson&left_color=peru&right_color=yellow&left_text=VISITORS" alt="Visitors Badge" />
+</div>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadsonkendson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadsonkendson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox_light&hide_border=true&order=2" height="160" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsonkendson&radius=14&theme=gruvbox&area=true&order=5" height="265" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
- <h2 align="left"> VISITS 👀</h2>
-
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jadsonkendson.jadsonkendson&left_color=peru&right_color=yellow&left_text=VISITORS"  />
-</div>
-
-###
-
-
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake.svg">
-</picture>
-<!--<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jadsonkendson}/count.svg" /></p> 
-<br></div>
-
-
-
-
-
-
- <!--<img src="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/snake.svg" alt="Snake animation" />
