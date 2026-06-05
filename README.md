@@ -22,10 +22,10 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jadsonkendson&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=false" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadsonkendson&layout=compact&langs_count=10&theme=gruvbox_light&hide_border=false" height="160" alt="Top Languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsonkendson&radius=14&theme=gruvbox&area=true" height="265" alt="Activity Graph" />
@@ -44,9 +44,8 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake.svg">
-  </picture>
+ <picture align="center"> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake-dark.svg">    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake-dark.svg">    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jadsonkendson/jadsonkendson/output/github-contribution-grid-snake.svg"> </picture>
 </p>
+
+
