@@ -12,6 +12,9 @@
 
 <h2 align="left">STATS 📊</h2>
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,mongodb,mysql,git,github,vscode" />
+</p>
 ###
 
 <div align="left">
