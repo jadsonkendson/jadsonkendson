@@ -28,8 +28,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsonkendson&radius=14&theme=gruvbox&area=true" height="265" alt="Activity Graph" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsonkendson&radius=14&theme=gruvbox&area=true&t=1752060000" height="265" /></div>
 
 ---
 
