@@ -9,7 +9,7 @@ I have experience building systems using React.js, Node.js, Express, PostgreSQL,
 
 ---
 
-# 🌐 Social Media  
+## 🌐 Social Media  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jadsonkendson/" target="_blank">
