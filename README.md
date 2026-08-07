@@ -1,10 +1,11 @@
-# Olá, eu sou Jadson Kendson 👋
+# Hello, I'm Jadson Kendson 👋
 
-💻 Desenvolvedor Full Stack
+💻 Full Stack Developer
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo no desenvolvimento de aplicações web, com experiência em Front-end, Back-end, APIs e bancos de dados.
+I am graduated in Analysis and Systems Development and I work with web application development, with experience in Front-end, Back-end, APIs, and databases.
 
-Tenho experiência com desenvolvimento de sistemas utilizando React.js, Node.js, Express, PostgreSQL, MongoDB e GraphQL, além de integração de APIs, autenticação, regras de negócio e deploy de aplicações.
+I have experience building systems using React.js, Node.js, Express, PostgreSQL, MongoDB, and GraphQL, as well as API integrations, authentication, business rules implementation, and application deployment.
+
 
 ---
 
