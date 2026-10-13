@@ -33,10 +33,10 @@ I have experience building systems using React.js, Node.js, Express, PostgreSQL,
 
 ## 📊 GitHub Stats  
 
-<!-- <div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jadsonkendson&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=false" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadsonkendson&layout=compact&langs_count=10&theme=gruvbox_light&hide_border=false" height="160" alt="Top Languages" />
-</div> -->
+</div> 
 
  <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsonkendson&radius=14&theme=gruvbox&area=true&cache_seconds=60" height="265" />
